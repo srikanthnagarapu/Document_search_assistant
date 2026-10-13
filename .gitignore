@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.idea/
+.DS_Store
+# Python virtual environment
+*.egg-info/
+# Logs
+audit.log
+# Build artifacts
+build/
+# Docker
+docker-compose.yml
