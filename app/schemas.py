@@ -27,3 +27,7 @@ class SearchResult(BaseModel):
     department: Optional[str]
     role: Optional[str]
     tags: List[str]
+class AnswerResult(BaseModel):
+    answer: str
+    sources: List[SearchResult] = []
+
