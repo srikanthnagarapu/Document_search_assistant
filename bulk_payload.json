@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Engineering – Engineer – On‑boarding Guide",
+    "content": "Welcome to the engineering team! Detailed onboarding steps, tooling, code‑review process, CI/CD pipeline, and contact lists.",
+    "department": "Engineering",
+    "role": "engineer",
+    "tags": ["onboarding", "engineering", "process"]
+  },
+  {
+    "title": "Engineering – Manager – Release Checklist",
+    "content": "Release checklist for engineering managers: pre‑flight checks, roll‑back plan, monitoring setup, post‑release QA, stakeholder notifications.",
+    "department": "Engineering",
+    "role": "manager",
+    "tags": ["release", "checklist", "engineering"]
+  },
+  {
+    "title": "Human Resources – Recruiter – Interview Template",
+    "content": "Standard interview template for recruiters: candidate background, technical screen, cultural fit, scoring rubric, next‑step instructions.",
+    "department": "Human Resources",
+    "role": "recruiter",
+    "tags": ["interview", "hr", "recruiting"]
+  },
+  {
+    "title": "Human Resources – Manager – Benefits Overview",
+    "content": "Benefits overview for HR managers: health plans, PTO policy, 401(k) matching, wellness program, and enrollment procedures.",
+    "department": "Human Resources",
+    "role": "manager",
+    "tags": ["benefits", "hr", "policy"]
+  },
+  {
+    "title": "Sales – Representative – Pitch Deck",
+    "content": "Sales pitch deck template: value proposition, market analysis, pricing tiers, objection handling, and call‑to‑action slides.",
+    "department": "Sales",
+    "role": "representative",
+    "tags": ["sales", "pitch", "template"]
+  },
+  {
+    "title": "Sales – Manager – Quarterly Forecast",
+    "content": "Quarterly forecast worksheet for sales managers: pipeline stages, expected revenue, quota attainment, risk assessment.",
+    "department": "Sales",
+    "role": "manager",
+    "tags": ["forecast", "sales", "management"]
+  },
+  {
+    "title": "Marketing – Specialist – Campaign Brief",
+    "content": "Campaign brief template for marketing specialists: target audience, messaging pillars, media mix, KPIs, timeline.",
+    "department": "Marketing",
+    "role": "specialist",
+    "tags": ["campaign", "marketing", "brief"]
+  },
+  {
+    "title": "Marketing – Manager – Brand Guidelines",
+    "content": "Comprehensive brand‑guidelines document for marketing managers: logo usage, color palette, tone‑of‑voice, visual assets.",
+    "department": "Marketing",
+    "role": "manager",
+    "tags": ["brand", "guidelines", "marketing"]
+  },
+  {
+    "title": "Finance – Analyst – Expense Reporting Procedure",
+    "content": "Step‑by‑step expense reporting procedure for finance analysts: receipt collection, approval flow, reimbursement timeline.",
+    "department": "Finance",
+    "role": "analyst",
+    "tags": ["expense", "finance", "procedure"]
+  },
+  {
+    "title": "Finance – Manager – Budget Planning Workbook",
+    "content": "Annual budget planning workbook for finance managers: departmental forecasts, cost‑center allocations, variance tracking.",
+    "department": "Finance",
+    "role": "manager",
+    "tags": ["budget", "finance", "planning"]
+  }
+]
