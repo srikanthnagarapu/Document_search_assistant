@@ -2,6 +2,9 @@
 
 A local, demo‑ready **company‑wide knowledge base assistant** that can search engineering documentation, policies, onboarding guides, and internal FAQs.
 
+Local Demo: https://drive.google.com/drive/folders/1aSpfwZdBt-bfd77DK2TmJvcu-iYxA4Zq?usp=sharing
+
+
 ## Features
 
 - **Full‑text search** over documents with metadata filters (department, role, tags)
