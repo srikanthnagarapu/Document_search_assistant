@@ -1,4 +1,4 @@
-# Enterprise Knowledge Base Assistant – Setup Guide
+# Document Search Base Assistant – Setup Guide
 
 A local, demo‑ready **company‑wide knowledge base assistant** that can search engineering documentation, policies, onboarding guides, and internal FAQs.
 
