@@ -11,6 +11,7 @@ from sentence_transformers import SentenceTransformer
 import numpy as np
 from prometheus_client import Counter, Histogram, generate_latest, CONTENT_TYPE_LATEST
 from functools import lru_cache
+import openai
 
 # Initialize logging for auditing
 audit_logger = logging.getLogger("audit")
